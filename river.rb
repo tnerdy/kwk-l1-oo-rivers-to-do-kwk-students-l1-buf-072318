@@ -2,7 +2,7 @@
 class River 
 attr_accessor :name, :length, :country 
 
-def initialize(river)  
+def initialize(name)  
 @name = name
 
 end 
