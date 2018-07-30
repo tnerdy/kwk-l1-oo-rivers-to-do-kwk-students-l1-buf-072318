@@ -6,7 +6,7 @@ def initialize(name)
 @name = name
 
 end 
-def floods
+def flood
 
 end
 end
