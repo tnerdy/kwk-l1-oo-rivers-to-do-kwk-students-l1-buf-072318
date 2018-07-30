@@ -10,7 +10,7 @@ def flood
 @discharge = @discharge *1.30
 
 def dry_up 
-  @discharge = @discharge /2
+  @discharge = @discharge / 2
   
 end
 end
