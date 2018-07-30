@@ -10,5 +10,5 @@ end
 
 
 end
-Mississipi = River.name("Mississipi")  
-Nile = River.name("Nile") 
+Mississipi = River.new("Mississipi")  
+Nile = River.new("Nile") 
