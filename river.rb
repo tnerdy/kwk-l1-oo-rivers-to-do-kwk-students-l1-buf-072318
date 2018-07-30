@@ -9,5 +9,5 @@ end
 
 
 end
-  
-  
+Mississipi = River.new  
+Nile = River.new  
