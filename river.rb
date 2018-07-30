@@ -8,6 +8,8 @@ def initialize(name)
 end 
 def flood
 
+@discharge = @discharge *1.30
+
 end
 end
 Mississipi = River.new("Mississipi")  
