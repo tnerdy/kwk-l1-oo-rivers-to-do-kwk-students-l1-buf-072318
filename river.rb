@@ -9,7 +9,9 @@ end
 def flood
 
 @discharge = @discharge *1.30
-
+def dry up 
+ 
+  
 end
 end
 Mississipi = River.new("Mississipi")  
