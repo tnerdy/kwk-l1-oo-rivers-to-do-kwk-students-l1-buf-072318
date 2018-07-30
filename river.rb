@@ -10,9 +10,9 @@ def flood
 @discharge = @discharge *1.3
 
 def dry_up 
-  @discharge = @discharge / 2
+  @discharge = @discharge 
   
 end
 end
 Mississipi = River.new("Mississipi")  
-Nile = River.new("Nile") 
+Hudson = River.new("Hudson") 
