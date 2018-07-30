@@ -2,7 +2,7 @@
 class River 
   
 def initialize(river)  
-@river = river
+@name = name
 
 end 
 
