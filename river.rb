@@ -6,9 +6,9 @@ def initialize(name)
 @name = name
 
 end 
-def initialize(flood)
-@flood = flood
+def floods
 
+end
 end
 Mississipi = River.new("Mississipi")  
 Nile = River.new("Nile") 
